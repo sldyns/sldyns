@@ -1,16 +1,23 @@
 ### Hi there 👋
+I'm Kun Qian, a PhD student at Peking University.
 
 <!--
 **sldyns/sldyns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on bioinformatics
+- 🌱 I’m currently learning statistics
+- 👯 I’m looking to collaborate on computational methods for omics data
+- 🤔 I’m looking for help with biology insight
+
+![Kun's GitHub stats](https://github-readme-stats.vercel.app/api?username=sldyns&show_icons=true&theme=monokai)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sldyns&layout=compact&hide=html,Roff)
+
+Top Repositories
+
+<a href="https://github.com/sldyns/scINSIGHT">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sldyns&repo=scINSIGHT" />
+</a>
+<a href="https://github.com/sldyns/scAce">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sldyns&repo=scAce" />
+</a>
