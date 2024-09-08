@@ -15,9 +15,15 @@ I'm Kun Qian, a PhD student at Peking University.
 
 Top Repositories
 
+<a href="https://github.com/sldyns/scAce">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sldyns&repo=DeepFuseNMF" />
+</a>
 <a href="https://github.com/sldyns/scINSIGHT">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sldyns&repo=scINSIGHT" />
 </a>
 <a href="https://github.com/sldyns/scAce">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sldyns&repo=scAce" />
+</a>
+<a href="https://github.com/sldyns/scAce">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sldyns&repo=scBiG" />
 </a>
