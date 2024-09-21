@@ -15,8 +15,8 @@ I'm Kun Qian, a PhD student at Peking University.
 
 Top Repositories
 
-<a href="https://github.com/sldyns/DeepFuseNMF">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sldyns&repo=DeepFuseNMF" />
+<a href="https://github.com/sldyns/SpaHDmap">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sldyns&repo=SpaHDmap" />
 </a>
 <a href="https://github.com/sldyns/scINSIGHT">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sldyns&repo=scINSIGHT" />
