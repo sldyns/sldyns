@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Kun Qian, a PhD student at Peking University.
+I'm Kun Qian, a Ph.D. Candidate at Peking University.
 
 <!--
 **sldyns/sldyns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
